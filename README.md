@@ -1,4 +1,4 @@
-# Friday Night Funkin': Troll Engine
+# Friday Night Funkin': Troll Engine Mobile
 
 [Troll Engine](https://github.com/riconuts/troll-engine) is the fork of [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) that's used on the [Tails Gets Trolled mod](https://gamebanana.com/mods/320596).
 
